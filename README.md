@@ -1,7 +1,7 @@
 # ShoppingSite
 Sample Backend with Java/SpringBoot
 
-#Docker Setup for Mysql 5.6
+# Docker Setup for Mysql 5.6
 
 ```
 docker pull mysql:5.6
